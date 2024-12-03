@@ -1,0 +1,5 @@
+# Convert single file
+marker_single "input_file_path" --output_dir "output_folder_path" --languages "eng"
+
+# Convert multiple files
+marker "input_folder_path" --output_dir "output_folder_path" --languages "eng" --workers 4
