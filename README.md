@@ -16,7 +16,13 @@
   - Link: https://unstract.com/llmwhisperer/
   
 - ### Llamaparse
+  
 - ### PyPDF4LLM
+  
+  - PyMuPDF4LLM, competes popular tools like Unstructured and LlamaParse for PDF processing in LLMs.
+  - Unique features, from handling multi-column layouts to seamless integration with LlamaIndex
+  - Precise PDF data extraction
+    
 - ### Microsoft Florence-2
   
   - Link:
