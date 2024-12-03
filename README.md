@@ -16,6 +16,12 @@
   - Link: https://unstract.com/llmwhisperer/
   
 - ### Llamaparse
+  - LlamaParse: Transform unstructured data into LLM optimized formats
+    - The best genAI-native parsing platform built specifically to transform complex documents (with tables, charts, images, flow diagrams etc) into clean data for LLM applications.
+  - Links:
+    - https://github.com/run-llama/llama_parse
+    - https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/
+    - https://www.llamaindex.ai/llamaparse
   
 - ### PyPDF4LLM
   
