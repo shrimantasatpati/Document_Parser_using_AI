@@ -18,4 +18,5 @@
 - ### Llamaparse
 - ### PyPDF4LLM
 - ### Microsoft Florence-2
-      - Link: https://huggingface.co/microsoft/Florence-2-large
+      - Link:
+        - https://huggingface.co/microsoft/Florence-2-large
