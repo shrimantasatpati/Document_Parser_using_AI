@@ -22,6 +22,7 @@
   - PyMuPDF4LLM, competes popular tools like Unstructured and LlamaParse for PDF processing in LLMs.
   - Unique features, from handling multi-column layouts to seamless integration with LlamaIndex
   - Precise PDF data extraction
+  - Build better and efficient RAG.
     
 - ### Microsoft Florence-2
   
