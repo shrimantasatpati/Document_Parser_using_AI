@@ -21,3 +21,9 @@
   
   - Link:
     - https://huggingface.co/microsoft/Florence-2-large
+   
+### Other references:
+- https://github.com/Nutlope/llama-ocr?tab=readme-ov-file
+- https://github.com/getomni-ai/zerox
+- https://www.analyticsvidhya.com/blog/2024/05/document-parsing-with-llamaparse/
+- https://github.com/VikParuchuri/marker
